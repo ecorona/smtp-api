@@ -1,0 +1,36 @@
+{
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "todo-tree.general.tags": [
+    "BUG",
+    "HACK",
+    "FIXME",
+    "TODO",
+    "XXX",
+    "[ ]",
+    "[x]",
+    "CUCHE",
+    "WARN"
+  ],
+  "peacock.color": "#770a15",
+  "workbench.colorCustomizations": {
+    "activityBar.activeBackground": "#a60e1d",
+    "activityBar.background": "#a60e1d",
+    "activityBar.foreground": "#e7e7e7",
+    "activityBar.inactiveForeground": "#e7e7e799",
+    "activityBarBadge.background": "#051d02",
+    "activityBarBadge.foreground": "#e7e7e7",
+    "commandCenter.border": "#e7e7e799",
+    "sash.hoverBorder": "#a60e1d",
+    "statusBar.background": "#770a15",
+    "statusBar.foreground": "#e7e7e7",
+    "statusBarItem.hoverBackground": "#a60e1d",
+    "statusBarItem.remoteBackground": "#770a15",
+    "statusBarItem.remoteForeground": "#e7e7e7",
+    "titleBar.activeBackground": "#770a15",
+    "titleBar.activeForeground": "#e7e7e7",
+    "titleBar.inactiveBackground": "#770a1599",
+    "titleBar.inactiveForeground": "#e7e7e799"
+  },
+  "postman.settings.dotenv-detection-notification-visibility": false
+}
