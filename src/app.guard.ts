@@ -8,7 +8,7 @@ import { ConfigService } from '@nestjs/config';
 import { ConfigKeys } from './config-keys.enum';
 
 @Injectable()
-export class ApiKeyGuard implements CanActivate {
+export class AppGuard implements CanActivate {
   constructor(private readonly configService: ConfigService) {}
   canActivate(context: ExecutionContext): boolean {
     const request = context.switchToHttp().getRequest();
